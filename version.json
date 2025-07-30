@@ -1,0 +1,7 @@
+{
+  "version": "2.6.0",
+  "filename": "网盘链接检测工具_v2.6.0_多源更新版.exe",
+  "download_url": "https://cdn.jsdelivr.net/gh/your-username/netdisk-checker-updates@main/updates/",
+  "release_notes": "• 修复了强制更新机制的安全漏洞\n• 新增多源更新支持，提高更新成功率\n• 优化了用户界面和交互体验\n• 改进了链接检测的准确性\n• 增强了程序的稳定性",
+  "force_update": true
+} 
